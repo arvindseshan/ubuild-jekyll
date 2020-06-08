@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: ''
     link_text: Home
-  - link: "#Lessons"
+  - link: ''
     link_text: Lessons
   - link: ''
     link_text: About
