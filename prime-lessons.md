@@ -3,11 +3,20 @@ layout: blocks
 title: Prime Lessons
 date: 2020-06-08 16:03:00 +0000
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
+- template: navigation-header
+  block: header-1
   logo: ''
   navigation: []
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
   cta:
+    enabled: false
     url: ''
     button_text: ''
 - template: 2-column-text
