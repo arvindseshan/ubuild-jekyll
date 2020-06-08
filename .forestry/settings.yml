@@ -34,4 +34,4 @@ build:
   preview_docker_image: forestryio/ruby:2.6
   mount_path: "/srv"
   instant_preview_command: bundle exec jekyll serve --config _config.yml,_config_staging.yml
-    --drafts --unpublished --future --port 8080 --host 74.98.247.99 -d _site
+    --drafts --unpublished --future --port 8080 --host 192.168.1.15 -d _site
